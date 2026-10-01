@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lengthaccountantsilo.github.io/sitemap.xml
